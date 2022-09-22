@@ -4,15 +4,14 @@
     "provider": "TODO",
     "releases": [
         {
-            "version": "v1.2.1-6-g754a85f",
-            "date": "2022-09-22T21:17:23.715417Z",
+            "version": "v1.2.1-SNAPSHOT",
+            "date": "2022-09-22T21:48:06.408903Z",
             "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
-            "sha512sum": "7cb98d46da30ccb6e140695958124e804666ef4198942d23545ce9718d3aff683a17980cd02dc367619987ae33e26c8b7cef1ff0516e4c2b8640ae7e62ae3fd7",
+            "sha512sum": "07ff324bc4a6a433578c9295adfdf57e17604d5c2eeba8839dc6a9d8b12f9956b7fbf9fe697bbb2e715f736fd4129b60695fab335c36f884974ea17502af1318",
             "preferred": false,
             "compatibility": [
                 
-            ],
-            "url": "https://github.com/Manuelinux/observability-test/raw/main/armory-observability-plugin-v1.2.1-6-g754a85f.zip"
+            ]
         }
     ]
 }

@@ -5,7 +5,7 @@
     "provider": "TODO",
     "releases": [
         {
-            "version": "0.0.1",
+            "version": "1.3.2",
             "date": "2022-09-23T15:00:59.313301Z",
             "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
             "sha512sum": "4b089e5bf86de56ac7b593f9843574df0f8026890e67bb5db9b479403a733745daac6d3cc79c9eba82f46ab9870437f314382befcc54fb4ee9acbac08b2b9f42",

@@ -21,7 +21,7 @@
             "url": "https://github.com/Manuelinux/observability-test/raw/main/armory-observability-plugin-v1.2.1-29-g5254b75.zip"
         },
         {
-            "version": "1.3.6",
+            "version": "1.3.7",
             "date": "2022-09-27T16:26:52.196305Z",
             "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
             "sha512sum": "75a675240ba7c5db5e26f9926de6db3381376773b311df5b466cc6a73483303a560a10288b1048c360919123d6f55e8bfb45fcc32b76e4da969de4227fe481e9",

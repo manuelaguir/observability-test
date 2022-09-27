@@ -26,7 +26,7 @@
             "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
             "sha512sum": "77bb8277d4ec2c2790916abef5e941cae8fbf44d09c6f045784d99456a44cc30f5b33d2f8fcc72bc3574317faddfc224029098ed86a570bd58867699650c17ad",
             "preferred": false,
-            "url": "https://github.com/Manuelinux/observability-test/raw/main/armory-observability-plugin-vv1.2.1-45-ge376eba.zip"
+            "url": "https://github.com/Manuelinux/observability-test/raw/main/armory-observability-plugin-v1.2.1-45-ge376eba.zip"
         }
     ]
 }

@@ -27,7 +27,7 @@
             "sha512sum": "0b6f776b46245134dd4e5a75060996be3cfb8a83da6df358bc05715a7a8049cff11bfd64fbb98579728be2072ca51f664f106ab4a0dd6c70f806ba6ff617082d",
             "preferred": false,
             "url": "https://github.com/Manuelinux/observability-test/raw/main/armory-observability-plugin-v1.2.1-49-gd92bc39.zip"
-        }
+        },
         {
             "version": "1.3.6",
             "date": "2022-09-30T19:56:00.649888Z",

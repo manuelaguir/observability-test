@@ -5,36 +5,12 @@
     "provider": "TODO",
     "releases": [
         {
-            "version": "1.3.2",
-            "date": "2022-09-25T00:44:57.038111Z",
+            "version": "1.4.2",
+            "date": "2023-03-30T23:15:50.160892Z",
             "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
-            "sha512sum": "8fa6628ad089306511fad064805beac56449193275a60a4cbf02f5bdb854457d17f8b40ff1e177ce29413e6e1f39cb3d83ec661d3930a9aa8a25f8c136063798",
+            "sha512sum": "05550bbed61938e9d40ba23268fafa56bd4f0c73ece2a3937a80e06db01a24205ee22796fef5eb5567a6a9ae98d88034c09262895c012a0c57454b272cdc21d6",
             "preferred": false,
-            "url": "https://github.com/Manuelinux/observability-test/raw/main/armory-observability-plugin-v1.2.1-17-g7004fb3.zip"
-        },
-        {
-            "version": "1.3.3",
-            "date": "2022-09-26T13:56:35.370346Z",
-            "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
-            "sha512sum": "cbe12d5d76cc40590ac6b460c767d2ba63c48c179f49891c336376e64cd59395a322fb542172877c4b9df0f6eaa266983cafc3fe56b0343f0952fb2afd09341d",
-            "preferred": false,
-            "url": "https://github.com/Manuelinux/observability-test/raw/main/armory-observability-plugin-v1.2.1-29-g5254b75.zip"
-        },
-        {
-            "version": "1.3.5",
-            "date": "2022-09-29T22:06:24.431068Z",
-            "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
-            "sha512sum": "0b6f776b46245134dd4e5a75060996be3cfb8a83da6df358bc05715a7a8049cff11bfd64fbb98579728be2072ca51f664f106ab4a0dd6c70f806ba6ff617082d",
-            "preferred": false,
-            "url": "https://github.com/Manuelinux/observability-test/raw/main/armory-observability-plugin-v1.2.1-49-gd92bc39.zip"
-        },
-        {
-            "version": "1.3.6",
-            "date": "2022-09-30T19:56:00.649888Z",
-            "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
-            "sha512sum": "ea58bf520f11a1aa2c4d36df9a2433b6e98e8dbf6af3ba95ad1bf6a48c3ceed930b0bddccb0156b96f955a2664ff1e1c3c67b8b55b70ff7ff23528396aeeef27",
-            "preferred": false,
-            "url": "https://github.com/Manuelinux/observability-test/raw/main/armory-observability-plugin-v1.2.1-50-g5b5db3c.zip"
+            "url": "https://github.com/Manuelinux/observability-test/raw/main/armory-observability-plugin-v1.2.1-7-g54ff708.zip"
         }
     ]
 }

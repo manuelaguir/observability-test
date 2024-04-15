@@ -6,11 +6,11 @@
     "releases": [
         {
             "version": "1.4.3",
-            "date": "2024-04-15T21:59:01.142385Z",
+            "date": "2024-04-15T22:06:39.848218Z",
             "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
-            "sha512sum": "ec3b62532683cdb9dd9772b8e72172b9c28d4d22a801f0b080e512cae4fcd4f1f9e1c0e2179ce1fd7e1702947bbde0ca0b0c9eb1f51b88dc0110bcc1ccd6e306",
+            "sha512sum": "fc808fbba2454a5666541ac7ee6031f0e116c704c15166aae12bdbe3371ac4a999f09eb0288a8601e553c4d2fe7e86de96cccd3078b696fee6d7f5005a4c94bd",
             "preferred": false,
-            "url": "https://github.com/Manuelinux/observability-test/raw/main/armory-observability-plugin-85a6bb1.zip"
+            "url": "https://github.com/Manuelinux/observability-test/raw/main/armory-observability-plugin-89d2baf.zip"
         }
     ]
 }

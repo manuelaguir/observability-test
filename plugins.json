@@ -10,16 +10,6 @@
             "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
             "sha512sum": "50b72fffad10b970805eca3afb328b2844cc289d10d49a9dda688915ee6fd911d266571b3d74143d2a8b1cfd719cc6956e211929ca85a5b646faf4d822a421be",
             "preferred": false,
-            "url": "https://github.com/Manuelinux/observability-test/raw/main/armory-observability-plugin-bf84d4d.zip"
-        },
-        {
-            "version": "1.5.0",
-            "date": "2024-04-16T14:34:55.645039Z",
-            "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
-            "sha512sum": "6d27bb32b437cd69e1fb859d794132fae74025197beb60636e85d9748b01ebc99b7019b7feb9b4cb58d14cc064eaf2a56858897361bcbf3186aca80f1d38d8f1",
-            "preferred": false,
-            "url": "https://github.com/Manuelinux/observability-test/raw/main/armory-observability-plugin-v1.5.0.zip"
+            "url": "https://github.com/manuelaguir/observability-test/raw/main/armory-observability-plugin-2e1bb9d.zip"
         }
-    ]
-}
 ]

@@ -14,4 +14,19 @@
         }
     ]
 }
+    {
+    "id": "Armory.SelfServeErrorManagement",
+    "description": "Self Serve Error Management plugin",
+    "provider": "https://armory.io",
+    "releases": [
+        {
+            "version": "0.0.2-SNAPSHOT",
+            "date": "2025-02-04T22:44:14.944854Z",
+            "requires": "clouddriver>=0.0.0",
+            "sha512sum": "20d757085d2dc01c26e25c1cea0a6ce55fb4fe7d33257416f6343dc65ddde41ce291e711cd45bc0473532ca6a635ac261dce07f8cf81d3850211be0129e3dae4",
+            "preferred": false,
+            "url": "https://github.com/manuelaguir/observability-test/raw/main/self-serve-error-management-0.0.2-SNAPSHOT.zip"
+        }
+    ]
+}
 ]

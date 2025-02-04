@@ -3,4 +3,8 @@
 "id": "ArmoryObservabilityPluginRepo",
 "url": "https://raw.githubusercontent.com/manuelaguir/observability-test/main/plugins.json"
 }
+{
+"id": "ArmoryTestSelf",
+"url": "https://raw.githubusercontent.com/manuelaguir/observability-test/main/plugins.json"
+}
 ]

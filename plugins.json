@@ -21,9 +21,9 @@
     "releases": [
         {
             "version": "0.0.2",
-            "date": "2025-02-05T15:17:21.635868Z",
+            "date": "2025-02-05T21:55:06.559282Z",
             "requires": "clouddriver>=0.0.0",
-            "sha512sum": "089c8581f781c4b161331ad8c7283429727327e48f00b103a6f3a8a4170b9838203e5cc077537acc0b4f1ddb6bfdb0409baa5d8d4f304862e00cb8e6f1fc60be",
+            "sha512sum": "0a688446cfbe8bfecbafeb287a5dabaff58d4eb58a8e069ee73b2d52548a2b6eb668aa4978991f8b1abe0c402ac711062bcf3cfd960d6a25fa49487dc71e6fd8",
             "preferred": false,
             "url": "https://github.com/manuelaguir/observability-test/raw/main/self-serve-error-management-0.0.2-SNAPSHOT.zip"
         }

@@ -14,7 +14,7 @@
         }
     ]
 },
-    {
+{
     "id": "Armory.SelfServeErrorManagement",
     "description": "Self Serve Error Management plugin",
     "provider": "https://armory.io",

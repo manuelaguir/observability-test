@@ -13,7 +13,7 @@
             "url": "https://github.com/manuelaguir/observability-test/raw/main/armory-observability-plugin-2e1bb9d.zip"
         }
     ]
-}
+},
     {
     "id": "Armory.SelfServeErrorManagement",
     "description": "Self Serve Error Management plugin",

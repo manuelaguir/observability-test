@@ -1,20 +1,5 @@
 [
 {
-    "id": "Armory.ObservabilityPlugin",
-    "description": "A plugin for configuring and customizing Micrometer for Armory.",
-    "provider": "TODO",
-    "releases": [
-        {
-            "version": "1.6.0",
-            "date": "2024-04-16T18:50:33.186169Z",
-            "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
-            "sha512sum": "8324ce9e5b725381b30df8ed0b0e7d7f34cd386b0890ad0cbc0977002b46fdbdfd7089ce157347d181482c6b1370b7fe83c19e14e8eb2e03b308d40260aab5ef",
-            "preferred": false,
-            "url": "https://github.com/manuelaguir/observability-test/raw/main/armory-observability-plugin-2e1bb9d.zip"
-        }
-    ]
-},
-{
     "id": "Armory.SelfServeErrorManagement",
     "description": "Self Serve Error Management plugin",
     "provider": "https://armory.io",
